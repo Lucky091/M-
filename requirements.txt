@@ -1,0 +1,4 @@
+Библеотеки:
+random
+os
+discord
